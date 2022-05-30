@@ -9,6 +9,7 @@ package listas.lse_nao_ordenada;
 
 import java.util.Scanner;
 
+
 public class LSENaoOrdenada {
 
     public static void main(String[] args) {
