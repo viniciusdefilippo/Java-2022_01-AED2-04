@@ -138,7 +138,6 @@ public class LSENaoOrdenada {
             } // fim da (op == 4) remover da lista
 
             // 14 – Implementar o código para esvaziar a LISTA – Opção 5
-
             if (op == 5) {
                 inicio = null;
                 fim = null;
