@@ -1,4 +1,4 @@
-package hash;
+package hash.versaolivro;
 
 import java.util.Scanner;
 
